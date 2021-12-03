@@ -25,6 +25,10 @@ To get a local copy up and running follow these simple example steps on the comm
 
   $ cd hello-react-front-end/
 
+  # install the npm packages
+
+  $ npm i
+
   # Start
   
   $ npm start
